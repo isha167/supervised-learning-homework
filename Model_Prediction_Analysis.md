@@ -13,5 +13,11 @@ In conclusion both the model don't seem to be the
 best choice for this type of data 
 
 # After Scaling Data 
-Even after scaling the data there doesn't seem to be much difference in the results.Hence reenforcing the previous analyis.
+## Prediction
+Because the data is vastly spread out.The preprocessing.scale() algorithm was requiredas it putsdata on one scale.
+The issue with sparsity is that it very biased or in statistical terms skewed. So, therefore, scaling the data brings all values onto one scale eliminating the sparsity.
+So expecting that scaling the data will lead to a better model with better scores.And might reduce overfitting.
+## Final observation
+Even after scaling the data there doesn't seem to be much difference in the results.Hence reenforcing the previous analyis that either model isn't the best for this
+data.
  
