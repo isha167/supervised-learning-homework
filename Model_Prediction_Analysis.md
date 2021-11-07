@@ -8,6 +8,7 @@ After fitting the models and testing them out it was clear that even though Rand
 compared to Logistic Regression model, it also seem to be overfitting the data.As can be ssen belowin the images 
 ![logreg](https://user-images.githubusercontent.com/85182090/140656540-5e72d6d3-63ca-4b70-9460-d2b74c6a9a65.JPG)
 ![ranfor](https://user-images.githubusercontent.com/85182090/140656541-fd13b9c0-8c50-4a34-bd90-63009c87b8ee.JPG)
+
 In conclusion both the model don't seem to be the 
 best choice for this type of data 
 
